@@ -1,0 +1,59 @@
+\documentclass{article}
+
+%packages go here!
+\usepackage{anyfontsize}
+\usepackage{tikz}
+\usepackage{graphicx}
+
+%Setting the font
+\renewcommand{\rmdefault}{phv} % Arial
+\renewcommand{\sfdefault}{phv} % Arial
+
+%Enter parameters here
+\newcommand\myauthor{Vo Dang Khoa(T5616SN)}
+\newcommand\mytitle{An Arbitrary tilte goes here!}
+\newcommand{\subtitle}{Some subtitle goes here!}
+\newcommand{\rpas}{Report or Assignment}
+\newcommand{\course}{Course name}
+
+%Redefining maketitle
+\renewcommand{\maketitle}{
+\thispagestyle{empty}
+
+\begin{center}
+
+\fontsize{16}{19} \selectfont \myauthor
+
+\vspace{20pt}
+
+\MakeUppercase{\fontsize{24}{30} \selectfont \mytitle}
+
+\vspace{5pt}
+
+\fontsize{20}{25} \selectfont \subtitle
+
+\vspace{20pt}
+
+\fontsize{16}{19} \selectfont {\rpas \\ \course}
+
+\vspace{20pt}
+
+\the\year
+
+%Adding the cover page
+\vspace{60pt}
+\includegraphics{logo.jpg}
+
+\end{center}
+
+%Making the cover background
+\tikz[remember picture,overlay] \node[inner sep=0pt] at (current page.center){
+\includegraphics[width=\paperwidth,height=\paperheight]{coverbg.png}};
+\clearpage
+}
+
+%Content of the document
+\begin{document}
+%The cover page
+\maketitle
+\end{document}
