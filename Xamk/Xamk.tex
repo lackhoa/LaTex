@@ -10,7 +10,8 @@
 	left=4.3cm,
 	top=2.25cm, bottom=1.25cm]{geometry}
 \usepackage[document]{ragged2e} %Left alignment
-\usepackage{parskip}
+\usepackage{parskip} %Add an additional line after paragraphs
+\usepackage{fancyhdr} %Put numbering on top
 
 %Setting the font
 \renewcommand{\rmdefault}{phv} % Arial
@@ -107,6 +108,12 @@
 	top=2.25cm,
 	bottom=1.25cm,
 	}
+
+%Put numbering on top (i.e. the header)
+\pagestyle{fancy}
+\fancyhf{}
+\chead{\thepage}
+\renewcommand{\headrulewidth}{0pt} %No line please!
 
 %===========================================================================================================
 
