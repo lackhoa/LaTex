@@ -12,6 +12,7 @@
 \usepackage[document]{ragged2e} %Left alignment
 \usepackage{parskip} %Add an additional line after paragraphs
 \usepackage{fancyhdr} %Put numbering on top
+\usepackage{enumitem} %List handling
 
 %Setting the font
 \renewcommand{\rmdefault}{phv} % Arial
@@ -51,7 +52,7 @@
 \the\year
 
 %Adding the logo
-\vspace{180pt}
+\vspace{100pt}
 \includegraphics{logo.jpg}
 
 \end{center}
@@ -102,7 +103,6 @@
 
 %Formatting the margin (If 'restoregeometry' doesn't work then I have no choices":
 \newgeometry{
-	a4paper,
 	right=2cm,
 	left=4.3cm,
 	top=2.25cm,
@@ -114,6 +114,9 @@
 \fancyhf{}
 \chead{\thepage}
 \renewcommand{\headrulewidth}{0pt} %No line please!
+
+%Formatting lists:
+\setlist[itemize]{leftmargin=.6in, nosep} %Vertical spacing of list paragraphs is none
 
 %===========================================================================================================
 
@@ -139,6 +142,35 @@ Uncommon characters and symbols, terms, self-made symbols and abbreviations can 
 
 
 \textbf{Font and font sizes:}
+
+\begin{itemize}
+	\item{headings and body text with Arial, font size 12}
+	\item{captions for figures and tables with Arial, font size 10}
+\end{itemize}
+
+\textbf{Margins}
+
+\begin{itemize}
+	\item{right margin 2 cm}
+	\item{left margin 4.3 cm}
+	\item{top margin 2.25 cm}
+	\item{bottom margin 1.25 cm}
+	\item{body text with line spacing 1.5}
+	\item{captions for figures/tables and appendices with line spacing 1}
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 \end{document}
