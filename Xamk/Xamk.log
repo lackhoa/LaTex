@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  16 SEP 2017 21:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  16 SEP 2017 22:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -446,22 +446,56 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@hangindent=\dimen172
 )
 \c@ContinuedFloat=\count112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/layout.sty
+Package: layout 2014/10/28 v1.2c Show layout parameters
+\oneinch=\count113
+\cnt@paperwidth=\count114
+\cnt@paperheight=\count115
+\cnt@hoffset=\count116
+\cnt@voffset=\count117
+\cnt@textheight=\count118
+\cnt@textwidth=\count119
+\cnt@topmargin=\count120
+\cnt@oddsidemargin=\count121
+\cnt@evensidemargin=\count122
+\cnt@headheight=\count123
+\cnt@headsep=\count124
+\cnt@marginparsep=\count125
+\cnt@marginparwidth=\count126
+\cnt@marginparpush=\count127
+\cnt@footskip=\count128
+\fheight=\count129
+\ref@top=\count130
+\ref@hoffset=\count131
+\ref@voffset=\count132
+\ref@head=\count133
+\ref@body=\count134
+\ref@foot=\count135
+\ref@margin=\count136
+\ref@marginwidth=\count137
+\ref@marginpar=\count138
+\Interval=\count139
+\ExtraYPos=\count140
+\PositionX=\count141
+\PositionY=\count142
+\ArrowLength=\count143
 ) (./Xamk.aux)
 \openout1 = `Xamk.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 89.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -469,16 +503,16 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count113
+\scratchcounter=\count144
 \scratchdimen=\dimen173
 \scratchbox=\box39
-\nofMPsegments=\count114
-\nofMParguments=\count115
+\nofMPsegments=\count145
+\nofMParguments=\count146
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count116
+\MPscratchCnt=\count147
 \MPscratchDim=\dimen174
-\MPnumerator=\count117
-\makeMPintoPDFobject=\count118
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -558,9 +592,9 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package ragged2e Info: ABD: executing \RaggedRight on input line 88.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 89.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 88.
+LaTeX Info: Redefining \selectfont on input line 89.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 *geometry* verbose mode - [ newgeometry ] result:
@@ -599,13 +633,13 @@ Package caption Info: End \AtBeginDocument code.
 <logo.jpg, id=4, 249.9885pt x 150.453pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 97.
+Package pdftex.def Info: logo.jpg used on input line 98.
 (pdftex.def)             Requested size: 249.98787pt x 150.45264pt.
 
 <coverbg.png, id=5, 597.73312pt x 846.16125pt>
 File: coverbg.png Graphic file (type png)
  <use coverbg.png>
-Package pdftex.def Info: coverbg.png used on input line 97.
+Package pdftex.def Info: coverbg.png used on input line 98.
 (pdftex.def)             Requested size: 597.54924pt x 845.07463pt.
  [1
 
@@ -613,7 +647,7 @@ Package pdftex.def Info: coverbg.png used on input line 97.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg> <./coverbg.png
 >]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 101.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 102.
 
 (./Xamk.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -636,11 +670,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(122.34692pt, 418.25545pt, 56.9055pt)
-* v-part:(T,H,B)=(64.01869pt, 745.46222pt, 35.56593pt)
+* v-part:(T,H,B)=(64.01869pt, 709.89627pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=418.25545pt
-* \textheight=745.46222pt
+* \textheight=709.89627pt
 * \oddsidemargin=50.07693pt
 * \evensidemargin=50.07693pt
 * \topmargin=-45.2513pt
@@ -665,13 +699,13 @@ Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
 Missing character: There is no ì in font phvr7t!
 
-Overfull \hbox (1.60655pt too wide) in paragraph at lines 133--135
+Overfull \hbox (1.60655pt too wide) in paragraph at lines 136--138
 \OT1/phv/m/n/12 This chap-ter in-tro-duces the lay-out of text pro-duced with t
 he tem-plate. Ap-pendix 
  []
 
 
-Overfull \hbox (16.24515pt too wide) in paragraph at lines 137--137
+Overfull \hbox (16.24515pt too wide) in paragraph at lines 140--140
 |[]\OT1/phv/b/n/12 Title page, ta-ble of con-tents, mar-gins, in-den-ta-tion, f
 onts, font sizes and
  []
@@ -701,22 +735,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 152.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 155.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 152.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 155.
 
-Overfull \hbox (6.71848pt too wide) in paragraph at lines 167--168
+Overfull \hbox (6.71848pt too wide) in paragraph at lines 170--171
 \OT1/phv/m/n/12 to-mat-i-cally in-dented cor-rectly and that line spac-ing re-m
 ains at 1.5. There should 
  []
 
 [4] [5] [6]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 193.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 196.
 Missing character: There is no ‚ in font phvro7t!
 Missing character: There is no Ä in font phvro7t!
 Missing character: There is no ù in font phvro7t!
@@ -732,7 +766,7 @@ Missing character: There is no ù in font phvro7t!
  <Figure1.png, id=31, 361.35pt x 271.0125pt>
 File: Figure1.png Graphic file (type png)
  <use Figure1.png>
-Package pdftex.def Info: Figure1.png used on input line 200.
+Package pdftex.def Info: Figure1.png used on input line 203.
 (pdftex.def)             Requested size: 361.34912pt x 271.01183pt.
 Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
@@ -746,26 +780,34 @@ Missing character: There is no ô in font phvr7t!
 Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
 Missing character: There is no ô in font phvr7t!
+Missing character: There is no ‚ in font phvr7t!
+Missing character: There is no Ä in font phvr7t!
+Missing character: There is no ô in font phvr7t!
 
+[7]
 
-Package caption Warning: Unused \captionsetup[table] on input line 124.
+Package caption Warning: Unused \captionsetup[table] on input line 128.
 See the caption package documentation for explanation.
 
-[7] [8 <./Figure1.png>] (./Xamk.aux) ) 
+[8 <./Figure1.png>] (./Xamk.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 13877 strings out of 493029
- 273200 string characters out of 6136235
- 317847 words of memory out of 5000000
- 17148 multiletter control sequences out of 15000+600000
+ 13953 strings out of 493029
+ 274148 string characters out of 6136235
+ 320171 words of memory out of 5000000
+ 17220 multiletter control sequences out of 15000+600000
  18695 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,54p,1107b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/
-dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Xamk.pdf (8 pages, 136336 bytes).
+ 55i,12n,54p,1107b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
+elvetic/uhvro8a.pfb>
+Output written on Xamk.pdf (8 pages, 137213 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream

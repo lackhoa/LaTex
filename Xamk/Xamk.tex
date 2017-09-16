@@ -14,6 +14,7 @@
 \usepackage{fancyhdr} %Put numbering on top
 \usepackage{enumitem} %List handling
 \usepackage{caption} %Caption handling
+\usepackage{layout} %Printing out the layout for debugging
 
 %Setting the font
 \renewcommand{\rmdefault}{phv} % Arial
@@ -102,12 +103,13 @@
 
 {\clearpage} %% old habits die hard ;-)
 
-%Formatting the margin (If 'restoregeometry' doesn't work then I have no choices":
+%Formatting the margin for the rest of the document
+%(If 'restoregeometry' doesn't work then I have no other options":
 \newgeometry{
 	right=2cm,
 	left=4.3cm,
 	top=2.25cm,
-	bottom=1.25cm,
+	bottom=2.5cm,
 	}
 
 %Put numbering on top (i.e. the header)
@@ -115,6 +117,8 @@
 \fancyhf{}
 \chead{\thepage}
 \renewcommand{\headrulewidth}{0pt} %No line please!
+%Format the footer also while we're at it:
+\renewcommand{\hoffset}{2in}
 
 %Formatting lists:
 \setlist[itemize]{leftmargin=.6in, nosep} %Vertical spacing of list paragraphs is none
@@ -124,7 +128,6 @@
 \captionsetup[table] {font=small, positiona=above}
 %The below line was marked with "b"
 %===========================================================================================================
-
 %CONTENT GOES HERE!
 \section{Introduction}
 This template for writing reports or assignments at Xamk was last updated on 16 August 2017. The template has been optimised for full, downloadable version of Microsoft Word – not for wordprocessing applications such as Office 365 operating in the cloud.
@@ -190,16 +193,35 @@ The text should include references to all tables and figures with their appropri
 
 \textbf{Reference can be incorporated in the sentence structure:}
 
-\textit{”Figure 1 illustrates the thesis process from idea to publication. The process has been divided into phases of 5 ECTS credits and it is supported by reporting and feedback.”}
+\textit{”Figure \ref{bacpic} illustrates the thesis process from idea to publication. The process has been divided into phases of 5 ECTS credits and it is supported by reporting and feedback.”}
 
 \textbf{Reference can be introduced in brackets:}
 
-\textit{”The thesis process can be divided into five phases, including idea, planning, implementation, assessment and publication (Figure 1).”}
+\textit{”The thesis process can be divided into five phases, including idea, planning, implementation, assessment and publication (Figure \ref{bacpic}).”}
 
 \begin{figure}
 	\includegraphics{Figure1.png}
-	\caption{Figure 1. Bachelor’s / Master’s thesis process (Heikkinen et al. 2013)}
+	\caption{Figure 1. Bachelor’s / Master’s thesis process (Heikkinen et al. 2013)\label{bacpic}}
 \end{figure}
+
+Reference alone is not enough, but the body text should also explain the figures and tables, so that readers can understand their main message based on the text. The symbols used must follow the standards and be consistent with the ones used in the text. If the date presented in a figure or table has been taken from another source, the caption must mention that source according to Xamk’s Referencing guidelines available at the Student intranet. Figure 1 above includes this kind of reference.
+
+As already mentioned, figures and tables must always be discussed in the body text. They can never start a chapter, but should always be preceded by an introduction in the text. For example, a figure is preceded by an explanation and followed by an interpretation. If the same figure is mentioned later in the text, the reference can include the page number for the figure as follows (Figure \ref{bacpic}, page \pageref{bacpic}). No figure or table can form a chapter, nor end it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
