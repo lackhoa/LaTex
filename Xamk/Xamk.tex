@@ -5,6 +5,7 @@
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{titlesec}
+\usepackage{geometry}
 
 %Setting the font
 \renewcommand{\rmdefault}{phv} % Arial
@@ -16,6 +17,16 @@
 \newcommand{\subtitle}{Some subtitle goes here!}
 \newcommand{\rpas}{Report or Assignment}
 \newcommand{\course}{Course name}
+
+%Formatting the margin:
+\geometry{
+	a4paper,
+	right=2cm,
+	left=4.3cm,
+	top=2.25cm,
+	bottom=1.25cm,
+	}
+\linespread{1.5}
 
 %Redefining maketitle
 \renewcommand{\maketitle}{
@@ -74,6 +85,11 @@
 %The cover page
 \maketitle
 
+%Table of content:
+\thispagestyle{empty}
+\tableofcontents
+\newpage
+
 \section{Introduction}
 This template for writing reports or assignments at Xamk was last updated on 16 August 2017.
  The template has been optimised for full, downloadable version of Microsoft Word – not 
@@ -90,6 +106,7 @@ The layout of the title page, table of contents and list of references
 do not require students’ own work. The example information of the template 
 can simply be replaced by the details of each report or assignment. Automatic 
 hyphenation can be disabled in the title of the title page.
+\\
 
 The title page follows the layout of the title page in this document. The 
 title page includes the student’s own name, the title of the 
