@@ -13,6 +13,7 @@
 \usepackage{parskip} %Add an additional line after paragraphs
 \usepackage{fancyhdr} %Put numbering on top
 \usepackage{enumitem} %List handling
+\usepackage{caption} %Caption handling
 
 %Setting the font
 \renewcommand{\rmdefault}{phv} % Arial
@@ -118,6 +119,10 @@
 %Formatting lists:
 \setlist[itemize]{leftmargin=.6in, nosep} %Vertical spacing of list paragraphs is none
 
+%Caption handling:
+\captionsetup[figure]{font=small, position=below}
+\captionsetup[table] {font=small, positiona=above}
+%The below line was marked with "b"
 %===========================================================================================================
 
 %CONTENT GOES HERE!
@@ -193,6 +198,7 @@ The text should include references to all tables and figures with their appropri
 
 \begin{figure}
 	\includegraphics{Figure1.png}
+	\caption{Figure 1. Bachelor’s / Master’s thesis process (Heikkinen et al. 2013)}
 \end{figure}
 
 
