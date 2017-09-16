@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  16 SEP 2017 11:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  16 SEP 2017 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -346,7 +346,7 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen154
 \titlewidthfirst=\dimen155
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/home/khoa/texmf/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
@@ -372,22 +372,61 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen162
 \Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks28
+
+(/home/khoa/texmf/tex/latex/geometry/geometry.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks29
+\footnotemargin=\dimen164
+\c@pp@next@reset=\count110
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+\CenteringLeftskip=\skip45
+\RaggedLeftLeftskip=\skip46
+\RaggedRightLeftskip=\skip47
+\CenteringRightskip=\skip48
+\RaggedLeftRightskip=\skip49
+\RaggedRightRightskip=\skip50
+\CenteringParfillskip=\skip51
+\RaggedLeftParfillskip=\skip52
+\RaggedRightParfillskip=\skip53
+\JustifyingParfillskip=\skip54
+\CenteringParindent=\skip55
+\RaggedLeftParindent=\skip56
+\RaggedRightParindent=\skip57
+\JustifyingParindent=\skip58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
 ) (./Xamk.aux)
 \openout1 = `Xamk.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 83.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -395,17 +434,17 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
-\scratchdimen=\dimen164
+\scratchcounter=\count111
+\scratchdimen=\dimen165
 \scratchbox=\box38
-\nofMPsegments=\count111
-\nofMParguments=\count112
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count113
-\MPscratchDim=\dimen165
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
-\everyMPtoPDFconversion=\toks30
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen166
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks31
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -484,23 +523,60 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package ragged2e Info: ABD: executing \RaggedRight on input line 83.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 83.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(113.81102pt, 674.33032pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=674.33032pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=4.54103pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
 <logo.jpg, id=4, 249.9885pt x 150.453pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 86.
+Package pdftex.def Info: logo.jpg used on input line 92.
 (pdftex.def)             Requested size: 249.98787pt x 150.45264pt.
 
 <coverbg.png, id=5, 597.73312pt x 846.16125pt>
 File: coverbg.png Graphic file (type png)
  <use coverbg.png>
-Package pdftex.def Info: coverbg.png used on input line 86.
+Package pdftex.def Info: coverbg.png used on input line 92.
 (pdftex.def)             Requested size: 597.54924pt x 845.07463pt.
  [1
+
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg> <./coverbg.png
 >]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 90.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 96.
 
 (./Xamk.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -514,21 +590,57 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2
 
 ]
+
+Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(122.34692pt, 418.25545pt, 56.9055pt)
+* v-part:(T,H,B)=(64.01869pt, 745.46222pt, 35.56593pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25545pt
+* \textheight=745.46222pt
+* \oddsidemargin=50.07693pt
+* \evensidemargin=50.07693pt
+* \topmargin=-45.2513pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 Missing character: There is no â in font phvr7t!
 Missing character: There is no € in font phvr7t!
 Missing character: There is no “ in font phvr7t!
-Missing character: There is no â in font phvr7t!
-Missing character: There is no € in font phvr7t!
-Missing character: There is no ™ in font phvr7t!
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--110
-
+Overfull \hbox (16.7551pt too wide) in paragraph at lines 122--122
+|[]\OT1/phv/b/n/10 Title page, ta-ble of con-tents, mar-gins, in-den-ta-tion, f
+onts, font sizes and page num-bers| 
  []
 
 Missing character: There is no â in font phvr7t!
 Missing character: There is no € in font phvr7t!
 Missing character: There is no ™ in font phvr7t!
 Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
 Missing character: There is no ˆ in font phvr7t!
 Missing character: There is no ’ in font phvr7t!
 Missing character: There is no â in font phvr7t!
@@ -537,22 +649,31 @@ Missing character: There is no ’ in font phvr7t!
 Missing character: There is no â in font phvr7t!
 Missing character: There is no € in font phvr7t!
 Missing character: There is no ™ in font phvr7t!
-[3] (./Xamk.aux) ) 
+
+Overfull \hbox (0.77986pt too wide) in paragraph at lines 131--132
+[]\OT1/phv/m/n/10 Uncommon char-ac-ters and sym-bols, terms, self-made sym-bols
+ and ab-bre-vi-a-tions can be listed 
+ []
+
+[3
+
+
+] [4] (./Xamk.aux) ) 
 Here is how much of TeX's memory you used:
- 12182 strings out of 493029
- 243887 string characters out of 6136235
- 286229 words of memory out of 5000000
- 15497 multiletter control sequences out of 15000+600000
+ 12369 strings out of 493029
+ 247353 string characters out of 6136235
+ 289716 words of memory out of 5000000
+ 15669 multiletter control sequences out of 15000+600000
  12313 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,54p,406b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</
-usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Xamk.pdf (3 pages, 87875 bytes).
+ 55i,6n,54p,1107b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}
+</usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on Xamk.pdf (4 pages, 87558 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
