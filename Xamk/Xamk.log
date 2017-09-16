@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  16 SEP 2017 22:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  17 SEP 2017 01:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -480,47 +480,286 @@ Package: layout 2014/10/28 v1.2c Show layout parameters
 \PositionX=\count141
 \PositionY=\count142
 \ArrowLength=\count143
-) (./Xamk.aux)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/03/03 v3.3 programmable bibliographies (PK/JW/AB)
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.sty
+Package: biblatex_ 2016/03/03 v3.3 programmable bibliographies (biber) (PK/JW/A
+B)
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count144
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count145
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count146
+\c@listtotal=\count147
+\c@listcount=\count148
+\c@liststart=\count149
+\c@liststop=\count150
+\c@citecount=\count151
+\c@citetotal=\count152
+\c@multicitecount=\count153
+\c@multicitetotal=\count154
+\c@instcount=\count155
+\c@maxnames=\count156
+\c@minnames=\count157
+\c@maxitems=\count158
+\c@minitems=\count159
+\c@citecounter=\count160
+\c@savedcitecounter=\count161
+\c@uniquelist=\count162
+\c@uniquename=\count163
+\c@refsection=\count164
+\c@refsegment=\count165
+\c@maxextratitle=\count166
+\c@maxextratitleyear=\count167
+\c@maxextrayear=\count168
+\c@maxextraalpha=\count169
+\c@abbrvpenalty=\count170
+\c@highnamepenalty=\count171
+\c@lownamepenalty=\count172
+\c@maxparens=\count173
+\c@parenlevel=\count174
+\blx@tempcnta=\count175
+\blx@tempcntb=\count176
+\blx@tempcntc=\count177
+\blx@maxsection=\count178
+\blx@maxsegment@0=\count179
+\blx@notetype=\count180
+\blx@parenlevel@text=\count181
+\blx@parenlevel@foot=\count182
+\blx@sectionciteorder@0=\count183
+\labelnumberwidth=\skip69
+\labelalphawidth=\skip70
+\biblabelsep=\skip71
+\bibitemsep=\skip72
+\bibnamesep=\skip73
+\bibinitsep=\skip74
+\bibparsep=\skip75
+\bibhang=\skip76
+\blx@bcfin=\read2
+\blx@bcfout=\write4
+\c@mincomprange=\count184
+\c@maxcomprange=\count185
+\c@mincompwidth=\count186
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear-icomp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count187
+\c@savedafterword=\count188
+\c@annotator=\count189
+\c@savedannotator=\count190
+\c@author=\count191
+\c@savedauthor=\count192
+\c@bookauthor=\count193
+\c@savedbookauthor=\count194
+\c@commentator=\count195
+\c@savedcommentator=\count196
+\c@editor=\count197
+\c@savededitor=\count198
+\c@editora=\count199
+\c@savededitora=\count266
+\c@editorb=\count267
+\c@savededitorb=\count268
+\c@editorc=\count269
+\c@savededitorc=\count270
+\c@foreword=\count271
+\c@savedforeword=\count272
+\c@holder=\count273
+\c@savedholder=\count274
+\c@introduction=\count275
+\c@savedintroduction=\count276
+\c@namea=\count277
+\c@savednamea=\count278
+\c@nameb=\count279
+\c@savednameb=\count280
+\c@namec=\count281
+\c@savednamec=\count282
+\c@translator=\count283
+\c@savedtranslator=\count284
+\c@shortauthor=\count285
+\c@savedshortauthor=\count286
+\c@shorteditor=\count287
+\c@savedshorteditor=\count288
+\c@labelname=\count289
+\c@savedlabelname=\count290
+\c@institution=\count291
+\c@savedinstitution=\count292
+\c@lista=\count293
+\c@savedlista=\count294
+\c@listb=\count295
+\c@savedlistb=\count296
+\c@listc=\count297
+\c@savedlistc=\count298
+\c@listd=\count299
+\c@savedlistd=\count300
+\c@liste=\count301
+\c@savedliste=\count302
+\c@listf=\count303
+\c@savedlistf=\count304
+\c@location=\count305
+\c@savedlocation=\count306
+\c@organization=\count307
+\c@savedorganization=\count308
+\c@origlocation=\count309
+\c@savedoriglocation=\count310
+\c@origpublisher=\count311
+\c@savedorigpublisher=\count312
+\c@publisher=\count313
+\c@savedpublisher=\count314
+\c@language=\count315
+\c@savedlanguage=\count316
+\c@pageref=\count317
+\c@savedpageref=\count318
+\shorthandwidth=\skip77
+\shortjournalwidth=\skip78
+\shortserieswidth=\skip79
+\shorttitlewidth=\skip80
+\shortauthorwidth=\skip81
+\shorteditorwidth=\skip82
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/03/03 v3.3 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex_.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex_.def
+File: biblatex_.def 
+\c@textcitecount=\count319
+\c@textcitetotal=\count320
+\c@textcitemaxnames=\count321
+\c@biburlnumpenalty=\count322
+\c@biburlucpenalty=\count323
+\c@biburllcpenalty=\count324
+\c@smartand=\count325
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear-icomp'...
+Package biblatex Info: ... file 'authoryear-icomp.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear-icomp.bbx
+File: authoryear-icomp.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/A
+B)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2016/03/03 v3.3 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count326
+\c@bbx:relatedtotal=\count327
+)))
+Package biblatex Info: Trying to load citation style 'authoryear-icomp'...
+Package biblatex Info: ... file 'authoryear-icomp.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear-icomp.cbx
+File: authoryear-icomp.cbx 2016/03/03 v3.3 biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)))
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
+)
+\@quotelevel=\count328
+\@quotereset=\count329
+ (./Xamk.aux)
 \openout1 = `Xamk.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 89.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 93.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count144
+\scratchcounter=\count330
 \scratchdimen=\dimen173
 \scratchbox=\box39
-\nofMPsegments=\count145
-\nofMParguments=\count146
+\nofMPsegments=\count331
+\nofMParguments=\count332
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count147
+\MPscratchCnt=\count333
 \MPscratchDim=\dimen174
-\MPnumerator=\count148
-\makeMPintoPDFobject=\count149
+\MPnumerator=\count334
+\makeMPintoPDFobject=\count335
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -536,19 +775,6 @@ Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
@@ -592,11 +818,22 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package ragged2e Info: ABD: executing \RaggedRight on input line 89.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 93.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 89.
+LaTeX Info: Redefining \selectfont on input line 93.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: No input encoding detected.
+(biblatex)             Assuming 'ascii'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'ascii'.
+\openout4 = `Xamk.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Xamk.bbl' found.
+ (./Xamk.bbl)
+Package biblatex Info: Reference section=0 on input line 93.
+Package biblatex Info: Reference segment=0 on input line 93.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -633,13 +870,13 @@ Package caption Info: End \AtBeginDocument code.
 <logo.jpg, id=4, 249.9885pt x 150.453pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 98.
+Package pdftex.def Info: logo.jpg used on input line 102.
 (pdftex.def)             Requested size: 249.98787pt x 150.45264pt.
 
 <coverbg.png, id=5, 597.73312pt x 846.16125pt>
 File: coverbg.png Graphic file (type png)
  <use coverbg.png>
-Package pdftex.def Info: coverbg.png used on input line 98.
+Package pdftex.def Info: coverbg.png used on input line 102.
 (pdftex.def)             Requested size: 597.54924pt x 845.07463pt.
  [1
 
@@ -647,18 +884,18 @@ Package pdftex.def Info: coverbg.png used on input line 98.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg> <./coverbg.png
 >]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 102.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 106.
 
 (./Xamk.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
+(Font)              <12> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
+(Font)              <6> on input line 7.
 )
-\tf@toc=\write4
-\openout4 = `Xamk.toc'.
+\tf@toc=\write5
+\openout5 = `Xamk.toc'.
 
  [2
 
@@ -699,13 +936,13 @@ Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
 Missing character: There is no ì in font phvr7t!
 
-Overfull \hbox (1.60655pt too wide) in paragraph at lines 136--138
+Overfull \hbox (1.60655pt too wide) in paragraph at lines 138--140
 \OT1/phv/m/n/12 This chap-ter in-tro-duces the lay-out of text pro-duced with t
 he tem-plate. Ap-pendix 
  []
 
 
-Overfull \hbox (16.24515pt too wide) in paragraph at lines 140--140
+Overfull \hbox (16.24515pt too wide) in paragraph at lines 142--142
 |[]\OT1/phv/b/n/12 Title page, ta-ble of con-tents, mar-gins, in-den-ta-tion, f
 onts, font sizes and
  []
@@ -735,22 +972,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 155.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 157.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 155.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 157.
 
-Overfull \hbox (6.71848pt too wide) in paragraph at lines 170--171
+Overfull \hbox (6.71848pt too wide) in paragraph at lines 172--173
 \OT1/phv/m/n/12 to-mat-i-cally in-dented cor-rectly and that line spac-ing re-m
 ains at 1.5. There should 
  []
 
 [4] [5] [6]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 196.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 198.
 Missing character: There is no ‚ in font phvro7t!
 Missing character: There is no Ä in font phvro7t!
 Missing character: There is no ù in font phvro7t!
@@ -766,7 +1003,7 @@ Missing character: There is no ù in font phvro7t!
  <Figure1.png, id=31, 361.35pt x 271.0125pt>
 File: Figure1.png Graphic file (type png)
  <use Figure1.png>
-Package pdftex.def Info: Figure1.png used on input line 203.
+Package pdftex.def Info: Figure1.png used on input line 205.
 (pdftex.def)             Requested size: 361.34912pt x 271.01183pt.
 Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
@@ -784,33 +1021,45 @@ Missing character: There is no ‚ in font phvr7t!
 Missing character: There is no Ä in font phvr7t!
 Missing character: There is no ô in font phvr7t!
 
-[7]
+[7] [8 <./Figure1.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 219.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 219.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 219.
+ [9]
 
-Package caption Warning: Unused \captionsetup[table] on input line 128.
+Package caption Warning: Unused \captionsetup[table] on input line 130.
 See the caption package documentation for explanation.
 
-[8 <./Figure1.png>] (./Xamk.aux)
+[10] (./Xamk.aux)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
+Package logreq Info: Writing requests to 'Xamk.run.xml'.
+\openout1 = `Xamk.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13953 strings out of 493029
- 274148 string characters out of 6136235
- 320171 words of memory out of 5000000
- 17220 multiletter control sequences out of 15000+600000
- 18695 words of font info for 37 fonts, out of 8000000 for 9000
+ 19527 strings out of 493029
+ 374481 string characters out of 6136235
+ 749024 words of memory out of 5000000
+ 22727 multiletter control sequences out of 15000+600000
+ 25113 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,54p,1107b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,54p,1107b,968s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
-elvetic/uhvro8a.pfb>
-Output written on Xamk.pdf (8 pages, 137213 bytes).
+f-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helveti
+c/uhvro8a.pfb>
+Output written on Xamk.pdf (10 pages, 149765 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

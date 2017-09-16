@@ -1,5 +1,13 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Introduction}{3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}Layout of reports of assignments}{3}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1}Title page, table of contents, margins, indentation, fonts, font sizes and page numbers}{3}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2}Headings and the table of contents}{5}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3}Figures and tables}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Emphasising}{8}

@@ -1,0 +1,126 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global}
+    \entry{fi05}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ccae04f87f7d4c7c1fed0dbc43f4ad49}{%
+           family={Fishman},
+           family_i={F\bibinitperiod},
+           given={R},
+           given_i={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Chester: Castle Press}%
+      }
+      \strng{namehash}{ccae04f87f7d4c7c1fed0dbc43f4ad49}
+      \strng{fullhash}{ccae04f87f7d4c7c1fed0dbc43f4ad49}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The rise and fall of suburbia}
+      \field{urlday}{12}
+      \field{urlmonth}{05}
+      \field{urlyear}{2010}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://libweb.anglia.ac.uk
+      \endverb
+    \endentry
+    \entry{je09}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=3ea950abc91ff07cd6e7fbe94d7a14b0}{%
+           family={Jensen},
+           family_i={J\bibinitperiod},
+           given={K.\bibnamedelimi L.},
+           given_i={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{uniquename=0,hash=8eb4f6a9057975b38824f7c8b5acd0e0}{%
+           family={Toftum},
+           family_i={T\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{uniquename=0,hash=7cd62df4f6c20d1094b1ac5ea3591ff7}{%
+           family={Friis-Hansen},
+           family_i={F\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{68e382b6c69a063af5b6f844c810e9a9}
+      \strng{fullhash}{68e382b6c69a063af5b6f844c810e9a9}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issuetitle}{Building and Environment 44}
+      \field{title}{A Bayesian network approach to the evaluation of building design and its consequences for employee performance and operational costs}
+      \field{year}{2009}
+      \field{pages}{456\bibrangedash 462}
+      \range{pages}{7}
+    \endentry
+    \entry{cd98}{online}{}
+      \list{organization}{1}{%
+        {Council Directive 98/83/EC 3}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{1998}
+      \field{labelmonth}{11}
+      \field{datelabelsource}{}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{The quality of water intended for human consumption.}
+      \field{urlday}{05}
+      \field{urlmonth}{02}
+      \field{urlyear}{2017}
+      \field{year}{1998}
+      \verb{url}
+      \verb http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31998L0083&from=EN
+      \endverb
+    \endentry
+    \entry{wa16}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d4b4cc3d717af03079452b10cbb90dbb}{%
+           family={Waters},
+           family_i={W\bibinitperiod},
+           given={D},
+           given_i={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {London: Kogan Pane}%
+      }
+      \strng{namehash}{d4b4cc3d717af03079452b10cbb90dbb}
+      \strng{fullhash}{d4b4cc3d717af03079452b10cbb90dbb}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{New directions in supply chain management. 5th edition}
+      \field{title}{Global logistic}
+      \field{year}{2016}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
