@@ -15,3 +15,7 @@
 \contentsline {subsection}{\numberline {3.2}Main business development}{4}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3}Most interesting business operations}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}EXTERNAL ENVIRONMENT}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Economic environment}{5}
