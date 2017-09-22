@@ -1,0 +1,86 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global}
+    \entry{bry16}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5c7ac08b74752adaeea04b2f9f1b41db}{%
+           family={Bryant},
+           family_i={B\bibinitperiod},
+           given={C},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c7ac08b74752adaeea04b2f9f1b41db}
+      \strng{fullhash}{5c7ac08b74752adaeea04b2f9f1b41db}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Germany wakes up to Tesla}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://www.bloomberg.com/gadfly/articles/2016-09-14/tesla-too-tempting-for-germany
+      \endverb
+    \endentry
+    \entry{mu17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9df3cd844d5cbaa2fdab92b309df5a0b}{%
+           family={Musk},
+           family_i={M\bibinitperiod},
+           given={E},
+           given_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9df3cd844d5cbaa2fdab92b309df5a0b}
+      \strng{fullhash}{9df3cd844d5cbaa2fdab92b309df5a0b}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Elon Musk on Twitter}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://twitter.com/elonmusk/status/873116351316938753
+      \endverb
+    \endentry
+    \entry{ce17}{online}{}
+      \list{organization}{1}{%
+        {Census bureau}%
+      }
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2017}
+      \field{labelmonth}{07}
+      \field{datelabelsource}{}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Top Trading Partners - July 2017}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://census.gov/foreign-trade/statistics/highlights/top/top1707yr.html
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

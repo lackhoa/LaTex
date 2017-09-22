@@ -1,0 +1,47 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.6 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global}
+    \entry{bry16}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5c7ac08b74752adaeea04b2f9f1b41db}{%
+           family={Bryant},
+           family_i={B\bibinitperiod},
+           given={C},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c7ac08b74752adaeea04b2f9f1b41db}
+      \strng{fullhash}{5c7ac08b74752adaeea04b2f9f1b41db}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Germany wakes up to Tesla}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://www.bloomberg.com/gadfly/articles/2016-09-14/tesla-too-tempting-for-germany
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

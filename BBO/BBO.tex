@@ -1,0 +1,211 @@
+\documentclass[12pt]{article}
+
+%packages go here!
+\usepackage{anyfontsize}
+\usepackage{tikz} %For drawing the cover page's background
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage[a4paper, 
+	right=2cm,
+	left=4.3cm,
+	top=2.25cm, bottom=1.25cm]{geometry}
+\usepackage[document]{ragged2e} %Left alignment
+\usepackage{parskip} %Add an additional line after paragraphs
+\usepackage{fancyhdr} %Put numbering on top
+\usepackage{enumitem} %List handling
+\usepackage{caption} %Caption handling
+\usepackage{layout} %Printing out the layout for debugging
+\usepackage[backend=biber, style=authoryear-icomp]{biblatex} %Bibliography
+
+%bibliography in latex's path:
+\addbibresource{unilink.bib}
+
+%Setting the font
+\renewcommand{\rmdefault}{phv} % Arial
+\renewcommand{\sfdefault}{phv} % Arial
+
+%Enter parameters here: this is a mark
+\newcommand\myauthor{Vo Dang Khoa (D5094; T5616SN)}
+\newcommand\mytitle{TESLA, INC}
+\newcommand{\subtitle}{}
+\newcommand{\rpas}{Report}
+\newcommand{\course}{Basics of Business Operations}
+
+\linespread{1.5}
+
+%Redefining maketitle
+\renewcommand{\maketitle}{
+\thispagestyle{empty}
+
+\begin{center}
+
+\fontsize{16}{19} \selectfont \myauthor
+
+\vspace{20pt}
+
+\MakeUppercase{\fontsize{24}{30} \selectfont \mytitle}
+
+\vspace{5pt}
+
+\fontsize{20}{25} \selectfont \subtitle
+
+\vspace{20pt}
+
+\fontsize{16}{19} \selectfont {\rpas \\ \course}
+
+\vspace{20pt}
+
+\the\year
+
+%Adding the logo
+\vspace{100pt}
+\includegraphics{logo.jpg}
+
+\end{center}
+
+%Making the cover background
+\tikz[remember picture,overlay] \node[inner sep=0pt] at (current page.center){
+\includegraphics[width=\paperwidth,height=\paperheight]{coverbg.png}};
+\clearpage
+}
+
+%Formatting The sections:
+\titleformat{\section}
+{\bfseries}
+{\thesection}
+{.17in}
+{\MakeUppercase}
+
+%The subsection:
+\titleformat{\subsection}
+{\bfseries}
+{\thesubsection}
+{.17in}
+{}
+
+%Formatting the paragraphs
+%Put new line between paragraphs
+\setlength{\parskip}{\baselineskip}
+%No indentation
+\setlength{\parindent}{0pt}
+
+%Content of the document
+\begin{document}
+%The cover page
+%First we must clear up the margin
+\newgeometry{
+	right=2cm,
+	left=2cm,
+	top=4cm,
+	bottom=2cm,
+	}
+{\maketitle}
+
+%Table of content:
+\thispagestyle{empty}
+{\tableofcontents}
+
+{\clearpage} %% old habits die hard ;-)
+
+%Formatting the margin for the rest of the document
+%(If 'restoregeometry' doesn't work then I have no other options":
+\newgeometry{
+	right=2cm,
+	left=4.3cm,
+	top=2.25cm,
+	bottom=2.5cm,
+	}
+
+%Put numbering on top (i.e. the header)
+\pagestyle{fancy}
+\fancyhf{}
+\chead{\thepage}
+\renewcommand{\headrulewidth}{0pt} %No line please!
+
+%Formatting lists:
+\setlist[itemize]{leftmargin=.6in, nosep} %Vertical spacing of list paragraphs is none
+
+%Caption handling:
+\captionsetup[figure]{font=small, position=below}
+\captionsetup[table] {font=small, positiona=above}
+
+
+
+
+
+
+
+
+
+
+
+
+%The below line was marked with "b"
+%===========================================================================================================
+%CONTENT GOES HERE!
+\section{INTRODUCTION}
+This is a report about the basics of Tesla’s operation.
+
+\section{BASIC INFORMATION}
+This chapter will give some basic information about Tesla, and why this company is interesting for me.
+
+\subsection{Why I chose to investigate Tesla}
+This is the company I’ve heard a lot about for many years and I think it is finally a convenient time to start learning about it. I am also quite interested in alternative energy sources and saving the environment.
+
+\subsection{Basic information}
+Tesla currently has 33,000 employees. The company’s products are automotive and energy storage. Tesla's headquarters are located in Palo Alto, California. It also has stores located in Canada, Europe, Asia and Australia.
+
+The main market for all of Tesla’s car models is the United States. Norway is the largest overseas market for the Model S.
+
+\section{HISTORY}
+
+\subsection{The foundation}
+The company was initially founded in 2003 by Martin Eberhard and Marc Tarpenning, although the company also considers Elon Musk, JB Straubel, and Ian Wright as its co-founders.
+
+The founders were influenced to start the company after GM (General Motors) recalled and destroyed all of its EV1 electric cars in 2003. Tesla's early primary goal was to commercialize electric vehicles, starting with a premium sports car aimed at early adopters and then moving as rapidly as possible into more mainstream vehicles, including sedans and affordable compacts for the mass market, serving "as a catalyst to accelerate the day of electric vehicles" (\cite{bry16}).
+
+\subsection{Main business development}
+Tesla signed a production contract on July 11, 2005, with Group Lotus to produce "gliders" (complete cars minus powertrain). The contract ran through March 2011, but the two automakers extended the deal to keep the electric Roadster in production through December 2011 with a minimum number of 2,400 units
+
+Musk led Tesla's Series B US\$13 million investment round. Musk co-led the third, US\$40 million round in May 2006. Tesla's third round included investment from prominent entrepreneurs including Google co-founders Sergey Brin and Larry Page. The fourth round in May 2007 added another US\$45 million and brought the total investments to over US\$105 million through private financing.
+
+In October 2008, Musk became CEO and laid off an additional 25\% of Tesla's workforce.
+
+By January 2009, Tesla had raised US\$187 million and delivered 147 cars. Musk had contributed US\$70 million of his own money to the company. Elon Musk owns a 20.8\% stake in the company as of March 2017. The prototype Model S was displayed at a press conference on March 26, 2009. 
+
+In June 2009 Tesla was approved to receive US\$465 million in low-interest-bearing loans from the 2007 US\$8 billion Advanced Technology Vehicles Manufacturing Loan Program by the United States Department of Energy, while Ford got \$5.9 billion, and Nissan got \$1.6 billion. The funding came in 2010, and supported engineering and production of the Model S sedan, as well as the development of commercial powertrain technology. Tesla repaid the loan early and with \$12 million in interest in May 2013, and was the first of the automakers to repay.
+
+On June 29, 2010, Tesla launched its initial public offering (IPO) on NASDAQ. 13,300,000 shares of common stock were issued to the public at a price of US\$17.00 per share. The IPO raised US\$226 million for the company.
+
+\subsection{Most interesting business operations}
+
+In June 2009 Tesla received US\$465 million in loans from the 2007 US\$8 billion Advanced Technology Vehicles Manufacturing Loan Program by the United States Department of Energy, while Ford got \$5.9 billion, and Nissan got \$1.6 billion. But it was the first company to repay the money.
+
+The founders were influenced to start the company after GM (General Motors) recalled and destroyed all of its EV1 electric cars in 2003 (\cite{mu17}).
+
+
+
+
+%References, this was marked with "r"
+%---------------------------------------------------------------------------------------------------------------
+
+%These two should always go together
+\newpage
+\printbibliography 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

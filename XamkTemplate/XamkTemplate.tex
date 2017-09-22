@@ -1,0 +1,180 @@
+\documentclass[12pt]{article}
+
+%packages go here!
+\usepackage{anyfontsize}
+\usepackage{tikz} %For drawing the cover page's background
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage[a4paper, 
+	right=2cm,
+	left=4.3cm,
+	top=2.25cm, bottom=1.25cm]{geometry}
+\usepackage[document]{ragged2e} %Left alignment
+\usepackage{parskip} %Add an additional line after paragraphs
+\usepackage{fancyhdr} %Put numbering on top
+\usepackage{enumitem} %List handling
+\usepackage{caption} %Caption handling
+\usepackage{layout} %Printing out the layout for debugging
+\usepackage[backend=biber, style=authoryear-icomp]{biblatex} %Bibliography
+
+%bibliography in latex's path:
+\addbibresource{unilink.bib}
+
+%Setting the font
+\renewcommand{\rmdefault}{phv} % Arial
+\renewcommand{\sfdefault}{phv} % Arial
+
+%Enter parameters here: This is a mark
+\newcommand\myauthor{Vo Dang Khoa (D5094; T5616SN)}
+\newcommand\mytitle{An Arbitrary tilte goes here!}
+\newcommand{\subtitle}{Some subtitle goes here!}
+\newcommand{\rpas}{Report or Assignment}
+\newcommand{\course}{Course name}
+
+\linespread{1.5}
+
+%Redefining maketitle
+\renewcommand{\maketitle}{
+\thispagestyle{empty}
+
+\begin{center}
+
+\fontsize{16}{19} \selectfont \myauthor
+
+\vspace{20pt}
+
+\MakeUppercase{\fontsize{24}{30} \selectfont \mytitle}
+
+\vspace{5pt}
+
+\fontsize{20}{25} \selectfont \subtitle
+
+\vspace{20pt}
+
+\fontsize{16}{19} \selectfont {\rpas \\ \course}
+
+\vspace{20pt}
+
+\the\year
+
+%Adding the logo
+\vspace{100pt}
+\includegraphics{logo.jpg}
+
+\end{center}
+
+%Making the cover background
+\tikz[remember picture,overlay] \node[inner sep=0pt] at (current page.center){
+\includegraphics[width=\paperwidth,height=\paperheight]{coverbg.png}};
+\clearpage
+}
+
+%Formatting The sections:
+\titleformat{\section}
+{\bfseries}
+{\thesection}
+{.17in}
+{\MakeUppercase}
+
+%The subsection:
+\titleformat{\subsection}
+{\bfseries}
+{\thesubsection}
+{.17in}
+{}
+
+%Formatting the paragraphs
+%Put new line between paragraphs
+\setlength{\parskip}{\baselineskip}
+%No indentation
+\setlength{\parindent}{0pt}
+
+%Content of the document
+\begin{document}
+%The cover page
+%First we must clear up the margin
+\newgeometry{
+	right=2cm,
+	left=2cm,
+	top=4cm,
+	bottom=2cm,
+	}
+{\maketitle}
+
+%Table of content:
+\thispagestyle{empty}
+{\tableofcontents}
+
+{\clearpage} %% old habits die hard ;-)
+
+%Formatting the margin for the rest of the document
+%(If 'restoregeometry' doesn't work then I have no other options":
+\newgeometry{
+	right=2cm,
+	left=4.3cm,
+	top=2.25cm,
+	bottom=2.5cm,
+	}
+
+%Put numbering on top (i.e. the header)
+\pagestyle{fancy}
+\fancyhf{}
+\chead{\thepage}
+\renewcommand{\headrulewidth}{0pt} %No line please!
+
+%Formatting lists:
+\setlist[itemize]{leftmargin=.6in, nosep} %Vertical spacing of list paragraphs is none
+
+%Caption handling:
+\captionsetup[figure]{font=small, position=below}
+\captionsetup[table] {font=small, positiona=above}
+
+
+
+
+
+
+
+
+
+
+
+
+%The below line was marked with "b"
+%===========================================================================================================
+%CONTENT GOES HERE!
+\cite{bry16}
+
+
+
+
+
+
+
+
+
+
+
+%References, this was marked with "r"
+%---------------------------------------------------------------------------------------------------------------
+
+%These two should always go together
+\newpage
+\printbibliography 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

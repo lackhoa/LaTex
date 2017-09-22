@@ -1,0 +1,15 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[1] Config.pm:343> INFO - Logfile is 'BBO.blg'
+[78] biber:287> INFO - === Fri Sep 22, 2017, 18:33:28
+[246] Biber.pm:348> INFO - Reading 'BBO.bcf'
+[518] Biber.pm:742> INFO - Found 3 citekeys in bib section 0
+[528] Biber.pm:3151> INFO - Processing section 0
+[593] Biber.pm:3308> INFO - Looking for bibtex format file 'unilink.bib' for section 0
+[607] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[615] bibtex.pm:974> INFO - Found BibTeX data source 'unilink.bib'
+[725] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[725] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[725] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[725] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[731] bbl.pm:519> INFO - Writing 'BBO.bbl' with encoding 'ascii'
+[764] bbl.pm:615> INFO - Output to BBO.bbl
