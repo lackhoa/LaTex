@@ -19,3 +19,11 @@
 \contentsline {section}{\numberline {4}EXTERNAL ENVIRONMENT}{5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.1}Economic environment}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Cultural Environment}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Political Environment}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}GLOBAL ENVIRONMENT AND INTERNATIONAL TRADE}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}BUSINESS ETHICS AND CORPORATE SOCIAL RESPONSIBILITY}{8}

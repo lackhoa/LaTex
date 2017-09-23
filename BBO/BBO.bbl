@@ -41,6 +41,72 @@
       \verb https://www.bloomberg.com/gadfly/articles/2016-09-14/tesla-too-tempting-for-germany
       \endverb
     \endentry
+    \entry{de16}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fc583e70ff57a7690ec3d489c3e47c6e}{%
+           family={Debord},
+           family_i={D\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc583e70ff57a7690ec3d489c3e47c6e}
+      \strng{fullhash}{fc583e70ff57a7690ec3d489c3e47c6e}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why it doesn't make sense for politics to turn against Elon Musk and Tesla}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://nordic.businessinsider.com/politics-elon-musk-and-tesla-2016-11?r=US&IR=T
+      \endverb
+    \endentry
+    \entry{hoUS}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=33cd33d6e507fdb2568256c625491f56}{%
+           family={Hofstede},
+           family_i={H\bibinitperiod},
+           given={G},
+           given_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{33cd33d6e507fdb2568256c625491f56}
+      \strng{fullhash}{33cd33d6e507fdb2568256c625491f56}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What about the USA?}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://geert-hofstede.com/united-states.html
+      \endverb
+    \endentry
+    \entry{ko13}{oneline}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1d8f643fbae176c0bcfcaa343504d23c}{%
+           family={Koopman},
+           family_i={K\bibinitperiod},
+           given={C},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d8f643fbae176c0bcfcaa343504d23c}
+      \strng{fullhash}{1d8f643fbae176c0bcfcaa343504d23c}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla is no success story}
+      \field{year}{2013}
+      \verb{url}
+      \verb https://www.usnews.com/opinion/blogs/economic-intelligence/2013/06/03/teslas-success-is-the-result-of-political-favoritism
+      \endverb
+    \endentry
     \entry{mu17}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=9df3cd844d5cbaa2fdab92b309df5a0b}{%
