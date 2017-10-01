@@ -16,6 +16,7 @@
 \usepackage{caption} %Caption handling
 \usepackage{layout} %Printing out the layout for debugging
 \usepackage[backend=biber, style=authoryear-icomp]{biblatex} %Bibliography
+\providecommand\phantomsection{} % FOr putting unnumbered section in toc
 
 %bibliography in latex's path:
 \addbibresource{unilink.bib}
@@ -158,9 +159,24 @@
 %References, this was marked with "r"
 %---------------------------------------------------------------------------------------------------------------
 
-%These two should always go together
 \newpage
-\printbibliography 
+
+\begingroup 
+% NO more line spacing for references
+\linespread{1}
+
+% Set spacing between bibliography spacing
+\setlength\bibitemsep{\baselineskip}
+
+% NO more hanging indentation for bibliograpy
+\setlength{\bibhang}{0pt}
+
+\section*{REFERENCES}
+\phantomsection
+\addcontentsline{toc}{section}{REFERENCES}%
+
+\printbibliography[heading=none]
+\endgroup
 
 
 

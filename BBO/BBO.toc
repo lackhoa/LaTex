@@ -27,3 +27,11 @@
 \contentsline {section}{\numberline {5}GLOBAL ENVIRONMENT AND INTERNATIONAL TRADE}{7}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6}BUSINESS ETHICS AND CORPORATE SOCIAL RESPONSIBILITY}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Tesla}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Google}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Microsoft}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{REFERENCES}{13}

@@ -16,6 +16,7 @@
 \usepackage{caption} %Caption handling
 \usepackage{layout} %Printing out the layout for debugging
 \usepackage[backend=biber, style=authoryear-icomp]{biblatex} %Bibliography
+\providecommand\phantomsection{} %For putting unnumbered section in toc
 
 %bibliography in latex's path:
 \addbibresource{unilink.bib}
@@ -293,14 +294,64 @@ Regarding working relationship, the section "Support each other" includes:
 	\item{Dog policy: Google states clearly that it is a dog company}
 \end{itemize}
 
+In Google's "About Us" page (\cite{goa17}), they clearly emphasize their social responsibility with headlines like "Meet the researcher using Google Street View to help dementia patients with memory loss", "Studying the sea to make trash less toxic", "The hi-res future of anti pollution tech". We can see they are doing a really good job of marketing based on their social value.
+
+\subsection{Microsoft}
+
+Microsoft's codes of ethics can be found on (\cite{mssbc}) (the document is available in many languages). Some of the standards include:
+
+\begin{itemize} 
+	\item{Make good decisions: there are three steps: Pause, Think and Ask}
+	\item{Speak up: there is no tolerance for relatiation}
+	\item{Trust with out customer: honor privacy and secure data}
+	\item{Trust with governments and communities}
+	\item{Trust with each other}
+	\item{Trust with investors}
+\end{itemize}
+
+I have some opinion on Microsoft's statements regarding trust with their customers. Since they have been really infamous for forcing Windows 10 down on Windows 7 and 8 laptops without users' permission (\cite{kle16}).
+
+The company's corporate social responsibility can be found on (\cite{mscsr}). Some of the main things are:
+
+\begin{itemize}
+	\item{Empower every person and every organization}
+	\item{Environmentally sustainable business practices}
+	\item{Increase energy efficiency}
+	\item{Minimize the impact of our waste}
+	\item{Collaborate with others to tackle pressing environmental challenges}
+\end{itemize}
+
+On Microsoft's front webpage (www.microsoft.com), aside from their products you can also find headlines such as "Tackling water scarcity: Microsoft Cloud and Ecolab team up to find solutions". In this article you can find out about how Microsoft's cloud can help businesses reduce water consumption by collecting data, which is a nice example of how technology can change the world.
+
+After reading about all these information on business ethics and corporate social responsibility, I have found out more about how companies and their customers can have a huge impact on societies and the environment. However, I am only convinced that I want to buy an electric car because I know that I can save the planet by doing so. About other things such as business ethics, I cannot trust the company's own guidelines (as mentioned above with Microsoft's case).
+
+
+
+
 
 %References, marked!
 %---------------------------------------------------------------------------------------------------------------
 
+
 %These two should always go together
 \newpage
-\printbibliography 
 
+\begingroup 
+% NO more line spacing for references
+\linespread{1}
+
+% Set spacing between bibliography spacing
+\setlength\bibitemsep{\baselineskip}
+
+% NO more hanging indentation for bibliograpy
+\setlength{\bibhang}{0pt}
+
+\section*{REFERENCES}
+\phantomsection
+\addcontentsline{toc}{section}{REFERENCES}
+
+\printbibliography[heading=none]
+\endgroup
 
 
 

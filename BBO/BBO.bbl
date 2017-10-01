@@ -63,6 +63,70 @@
       \verb http://nordic.businessinsider.com/politics-elon-musk-and-tesla-2016-11?r=US&IR=T
       \endverb
     \endentry
+    \entry{goa17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           family_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{extrayear}{1}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About us}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.google.fi/intl/en/about/
+      \endverb
+    \endentry
+    \entry{go17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           family_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{extrayear}{2}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Google code of conduct}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://abc.xyz/investor/other/google-code-of-conduct.html
+      \endverb
+    \endentry
+    \entry{gr17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9f1dec0999d3833ada7bf9ebc719f6db}{%
+           family={Greenspan},
+           family_i={G\bibinitperiod},
+           given={R},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f1dec0999d3833ada7bf9ebc719f6db}
+      \strng{fullhash}{9f1dec0999d3833ada7bf9ebc719f6db}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla Motors, Inc. corporate social responsibility, stakeholders}
+      \field{year}{2017}
+      \verb{url}
+      \verb http://panmore.com/tesla-motors-inc-stakeholders-corporate-social-responsibility
+      \endverb
+    \endentry
     \entry{hoUS}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=33cd33d6e507fdb2568256c625491f56}{%
@@ -83,6 +147,28 @@
       \field{year}{2017}
       \verb{url}
       \verb https://geert-hofstede.com/united-states.html
+      \endverb
+    \endentry
+    \entry{kle16}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ac86c6c11c04654ae7bfa88907cc5cb0}{%
+           family={Klepek},
+           family_i={K\bibinitperiod},
+           given={P},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac86c6c11c04654ae7bfa88907cc5cb0}
+      \strng{fullhash}{ac86c6c11c04654ae7bfa88907cc5cb0}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Microsoft altering its shady Windows 10 forced upgrade system}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://kotaku.com/microsoft-altering-its-shady-windows-10-forced-upgrade-1782740251
       \endverb
     \endentry
     \entry{ko13}{oneline}{}
@@ -107,6 +193,48 @@
       \verb https://www.usnews.com/opinion/blogs/economic-intelligence/2013/06/03/teslas-success-is-the-result-of-political-favoritism
       \endverb
     \endentry
+    \entry{mscsr}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           family_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{extrayear}{1}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Corporate social responsibility}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/about/corporate-responsibility
+      \endverb
+    \endentry
+    \entry{mssbc}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           family_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{extrayear}{2}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Standards of business conduct}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/legal/compliance/sbc/download#
+      \endverb
+    \endentry
     \entry{mu17}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=9df3cd844d5cbaa2fdab92b309df5a0b}{%
@@ -127,6 +255,26 @@
       \field{year}{2017}
       \verb{url}
       \verb https://twitter.com/elonmusk/status/873116351316938753
+      \endverb
+    \endentry
+    \entry{te10}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8f3182163857c5463c883017ff1cd3cc}{%
+           family={Tesla},
+           family_i={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f3182163857c5463c883017ff1cd3cc}
+      \strng{fullhash}{8f3182163857c5463c883017ff1cd3cc}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Code of business conduct and ethics}
+      \field{year}{2010}
+      \verb{url}
+      \verb http://ir.tesla.com/corporate-governance-document.cfm?documentid=7159
       \endverb
     \endentry
   \endsortlist

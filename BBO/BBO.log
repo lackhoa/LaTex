@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  23 SEP 2017 23:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  1 OCT 2017 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -728,19 +728,19 @@ File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
  (./BBO.aux)
 \openout1 = `BBO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 94.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
@@ -819,9 +819,9 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package ragged2e Info: ABD: executing \RaggedRight on input line 93.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 94.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 93.
+LaTeX Info: Redefining \selectfont on input line 94.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: No input encoding detected.
@@ -833,8 +833,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'BBO.bbl' found.
  (./BBO.bbl)
-Package biblatex Info: Reference section=0 on input line 93.
-Package biblatex Info: Reference segment=0 on input line 93.
+Package biblatex Info: Reference section=0 on input line 94.
+Package biblatex Info: Reference segment=0 on input line 94.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -871,13 +871,13 @@ Package biblatex Info: Reference segment=0 on input line 93.
 <logo.jpg, id=4, 249.9885pt x 150.453pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 102.
+Package pdftex.def Info: logo.jpg used on input line 103.
 (pdftex.def)             Requested size: 249.98787pt x 150.45264pt.
 
 <coverbg.png, id=5, 597.73312pt x 846.16125pt>
 File: coverbg.png Graphic file (type png)
  <use coverbg.png>
-Package pdftex.def Info: coverbg.png used on input line 102.
+Package pdftex.def Info: coverbg.png used on input line 103.
 (pdftex.def)             Requested size: 597.54924pt x 845.07463pt.
  [1
 
@@ -885,7 +885,7 @@ Package pdftex.def Info: coverbg.png used on input line 102.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg> <./coverbg.png
 >]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 106.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 107.
 
 (./BBO.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -946,7 +946,7 @@ Missing character: There is no â in font phvr7t!
 Missing character: There is no € in font phvr7t!
 Missing character: There is no ™ in font phvr7t!
 
-Overfull \hbox (10.35518pt too wide) in paragraph at lines 163--164
+Overfull \hbox (10.35518pt too wide) in paragraph at lines 164--165
 \OT1/phv/m/n/12 The com-pany was ini-tially founded in 2003 by Mar-tin Eber-har
 d and Marc Tarpen- 
  []
@@ -961,69 +961,131 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ] [4]
-Overfull \hbox (0.45541pt too wide) in paragraph at lines 182--183
+Overfull \hbox (0.45541pt too wide) in paragraph at lines 183--184
 \OT1/phv/m/n/12 lion Ad-vanced Tech-nol-ogy Ve-hi-cles Man-u-fac-tur-ing Loan P
 ro-gram by the United 
  []
 
 
-Overfull \hbox (6.29904pt too wide) in paragraph at lines 190--191
+Overfull \hbox (6.29904pt too wide) in paragraph at lines 191--192
 \OT1/phv/m/n/12 I will now pro-vide some in-for-ma-tion on the United States's 
 econ-omy. The source 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 193.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 194.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 193.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 194.
  [5]
-Overfull \hbox (3.60542pt too wide) in paragraph at lines 197--198
+Overfull \hbox (3.60542pt too wide) in paragraph at lines 198--199
 []\OT1/phv/m/n/12 Trade in 2017 (mil-lion US$): Trade bal-ance: -458,725.2 (a t
 rade deficit); 
  []
 
-[6] [7] [8]
+[6] [7]
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+ [8]
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+ [9]
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no “ in font phvr7t!
+
+Overfull \hbox (1.64323pt too wide) in paragraph at lines 275--276
+\OT1/phv/m/n/12 More-over, they ex-pect con-trac-tors, con-sul-tants and oth-er
+s who work for Google 
+ []
+
+[10]
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no “ in font phvr7t!
+ [11]
+Overfull \hbox (12.3472pt too wide) in paragraph at lines 314--315
+[]\OT1/phv/m/n/12 The com-pany's cor-po-rate so-cial re-spon-si-bil-ity can be 
+found on ([]Mi-crosoft 2017a). 
+ []
+
+[12]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 235.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 353.
 
 
 Package biblatex Warning: No driver for entry type 'oneline'.
-(biblatex)                Using fallback driver on input line 235.
+(biblatex)                Using fallback driver on input line 353.
 
 
-Package caption Warning: Unused \captionsetup[figure] on input line 129.
+Overfull \hbox (12.22646pt too wide) in paragraph at lines 353--353
+[][]\OT1/phv/m/n/12 Microsoft (2017a). \OT1/phv/m/sl/12 Cor-po-rate so-cial re-
+spon-si-bil-ity\OT1/phv/m/n/12 . \OT1/phv/m/sc/12 url\OT1/phv/m/n/12 : $\OT1/cm
+tt/m/n/12 https : / / www . microsoft . 
+ []
+
+
+Package caption Warning: Unused \captionsetup[figure] on input line 130.
 See the caption package documentation for explanation.
 
 
-Package caption Warning: Unused \captionsetup[table] on input line 130.
+Package caption Warning: Unused \captionsetup[table] on input line 131.
 See the caption package documentation for explanation.
 
-[9] (./BBO.aux)
+[13] (./BBO.aux)
 Package logreq Info: Writing requests to 'BBO.run.xml'.
 \openout1 = `BBO.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19505 strings out of 493029
- 374151 string characters out of 6136235
- 748019 words of memory out of 5000000
- 22710 multiletter control sequences out of 15000+600000
+ 19527 strings out of 493029
+ 374505 string characters out of 6136235
+ 750133 words of memory out of 5000000
+ 22732 multiletter control sequences out of 15000+600000
  17764 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,54p,793b,962s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,54p,875b,988s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helveti
 c/uhvro8a.pfb>
-Output written on BBO.pdf (9 pages, 119524 bytes).
+Output written on BBO.pdf (13 pages, 128467 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

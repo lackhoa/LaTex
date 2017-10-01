@@ -16,6 +16,7 @@
 \usepackage{caption} %Caption handling
 \usepackage{layout} %Printing out the layout for debugging
 \usepackage[backend=biber, style=authoryear-icomp]{biblatex} %Bibliography
+\providecommand\phantomsection{}
 
 %bibliography in latex's path:
 \addbibresource{unilink.bib}
@@ -31,6 +32,7 @@
 \newcommand{\rpas}{Report or Assignment}
 \newcommand{\course}{Course name}
 
+%Line spacing is 1.5
 \linespread{1.5}
 
 %Redefining maketitle
@@ -105,29 +107,6 @@
 \thispagestyle{empty}
 {\tableofcontents}
 
-{\clearpage} %% old habits die hard ;-)
-
-%Formatting the margin for the rest of the document
-%(If 'restoregeometry' doesn't work then I have no other options":
-\newgeometry{
-	right=2cm,
-	left=4.3cm,
-	top=2.25cm,
-	bottom=2.5cm,
-	}
-
-%Put numbering on top (i.e. the header)
-\pagestyle{fancy}
-\fancyhf{}
-\chead{\thepage}
-\renewcommand{\headrulewidth}{0pt} %No line please!
-
-%Formatting lists:
-\setlist[itemize]{leftmargin=.6in, nosep} %Vertical spacing of list paragraphs is none
-
-%Caption handling:
-\captionsetup[figure]{font=small, position=below}
-\captionsetup[table] {font=small, positiona=above}
 %The below line was marked with "b"
 %===========================================================================================================
 %CONTENT GOES HERE!
@@ -224,6 +203,9 @@ In addition, parts of text can be emphasised with bulleted lists, but they must 
 %---------------------------------------------------------------------------------------------------------------
 \textit{You can start writing your own list of references here. The list of references always starts a new page. The example list of references below bases on the Harvard system. The referencing style used at Xamk is introduced in Referencing guidelines where the examples for the titles of sources have capital initial letter only for the first word of the title. After that, lower-case letters are used, unless grammatical reasons require capital initials, as with proper nouns and adjectives referring to nationalities and languages, for example.}
 
+% NO more line spacing for references
+\linespread{1}
+
 \textcite{cd98}
 
 \textcite{fi05}
@@ -234,8 +216,23 @@ In addition, parts of text can be emphasised with bulleted lists, but they must 
 
 %These two should always go together
 \newpage
-\printbibliography 
 
+\begingroup 
+% NO more line spacing for references
+\linespread{1}
+
+% Set spacing between bibliography spacing
+\setlength\bibitemsep{\baselineskip}
+
+% NO more hanging indentation for bibliograpy
+\setlength{\bibhang}{0pt}
+
+\section*{REFERENCES}
+\phantomsection
+\addcontentsline{toc}{section}{REFERENCES}
+
+\printbibliography[heading=none]
+\endgroup
 
 
 
