@@ -34,4 +34,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.3}Microsoft}{11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{REFERENCES}{13}
+\contentsline {section}{\numberline {7}MANAGING THE BUSINESS}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1}Investigating Elon Musk}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2}The mission, vision and strategy of Tesla}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3}Tesla's manager}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4}Recruitment for a managerial position}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5}Corporate culture}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{REFERENCES}{17}

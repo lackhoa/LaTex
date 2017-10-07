@@ -1,15 +1,15 @@
 [0] Config.pm:340> INFO - This is Biber 2.4
-[0] Config.pm:343> INFO - Logfile is 'XamkTemplate.blg'
-[77] biber:287> INFO - === Sun Oct  1, 2017, 21:40:27
-[272] Biber.pm:348> INFO - Reading 'XamkTemplate.bcf'
-[548] Biber.pm:742> INFO - Found 1 citekeys in bib section 0
-[558] Biber.pm:3151> INFO - Processing section 0
-[620] Biber.pm:3308> INFO - Looking for bibtex format file 'unilink.bib' for section 0
-[650] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[673] bibtex.pm:974> INFO - Found BibTeX data source 'unilink.bib'
-[740] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[740] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[740] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
-[741] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
-[743] bbl.pm:519> INFO - Writing 'XamkTemplate.bbl' with encoding 'ascii'
-[755] bbl.pm:615> INFO - Output to XamkTemplate.bbl
+[1] Config.pm:343> INFO - Logfile is 'XamkTemplate.blg'
+[72] biber:287> INFO - === Sat Oct  7, 2017, 18:23:31
+[263] Biber.pm:348> INFO - Reading 'XamkTemplate.bcf'
+[536] Biber.pm:742> INFO - Found 1 citekeys in bib section 0
+[547] Biber.pm:3151> INFO - Processing section 0
+[605] Biber.pm:3308> INFO - Looking for bibtex format file 'unilink.bib' for section 0
+[641] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[663] bibtex.pm:974> INFO - Found BibTeX data source 'unilink.bib'
+[744] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[744] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[744] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[744] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[747] bbl.pm:519> INFO - Writing 'XamkTemplate.bbl' with encoding 'ascii'
+[758] bbl.pm:615> INFO - Output to XamkTemplate.bbl

@@ -171,7 +171,7 @@
       \verb https://kotaku.com/microsoft-altering-its-shady-windows-10-forced-upgrade-1782740251
       \endverb
     \endentry
-    \entry{ko13}{oneline}{}
+    \entry{ko13}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=1d8f643fbae176c0bcfcaa343504d23c}{%
            family={Koopman},
@@ -191,6 +191,28 @@
       \field{year}{2013}
       \verb{url}
       \verb https://www.usnews.com/opinion/blogs/economic-intelligence/2013/06/03/teslas-success-is-the-result-of-political-favoritism
+      \endverb
+    \endentry
+    \entry{me17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a85eaef76d438a6bd8251ce4d8352dec}{%
+           family={Meyer},
+           family_i={M\bibinitperiod},
+           given={P},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a85eaef76d438a6bd8251ce4d8352dec}
+      \strng{fullhash}{a85eaef76d438a6bd8251ce4d8352dec}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla Motors Inc's organizational culture, characteristics (an analysis)}
+      \field{year}{2017}
+      \verb{url}
+      \verb http://panmore.com/tesla-motors-inc-organizational-culture-characteristics-analysis
       \endverb
     \endentry
     \entry{mscsr}{online}{}
@@ -235,6 +257,28 @@
       \verb https://www.microsoft.com/en-us/legal/compliance/sbc/download#
       \endverb
     \endentry
+    \entry{mu13}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9df3cd844d5cbaa2fdab92b309df5a0b}{%
+           family={Musk},
+           family_i={M\bibinitperiod},
+           given={E},
+           given_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9df3cd844d5cbaa2fdab92b309df5a0b}
+      \strng{fullhash}{9df3cd844d5cbaa2fdab92b309df5a0b}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The mission of Tesla}
+      \field{year}{2013}
+      \verb{url}
+      \verb https://www.tesla.com/blog/mission-tesla
+      \endverb
+    \endentry
     \entry{mu17}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=9df3cd844d5cbaa2fdab92b309df5a0b}{%
@@ -257,6 +301,28 @@
       \verb https://twitter.com/elonmusk/status/873116351316938753
       \endverb
     \endentry
+    \entry{ry17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=efb68bf62a30cbcef6f09e56a92c1a4f}{%
+           family={Ryan},
+           family_i={R\bibinitperiod},
+           given={K},
+           given_i={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{efb68bf62a30cbcef6f09e56a92c1a4f}
+      \strng{fullhash}{efb68bf62a30cbcef6f09e56a92c1a4f}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{6 interview strategies Elon Musk uses to hire at SpaceX and Tesla}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.inc.com/kevin-j-ryan/how-to-hire-like-elon-musk.html
+      \endverb
+    \endentry
     \entry{te10}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=8f3182163857c5463c883017ff1cd3cc}{%
@@ -275,6 +341,28 @@
       \field{year}{2010}
       \verb{url}
       \verb http://ir.tesla.com/corporate-governance-document.cfm?documentid=7159
+      \endverb
+    \endentry
+    \entry{to17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5095351e69b4d6e98e2f3f5f53ad5a8f}{%
+           family={Torres},
+           family_i={T\bibinitperiod},
+           given={M},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5095351e69b4d6e98e2f3f5f53ad5a8f}
+      \strng{fullhash}{5095351e69b4d6e98e2f3f5f53ad5a8f}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How Elon Musk runs an efficient meeting and you can, too}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.theladders.com/p/28310/how-elon-musk-runs-an-efficient-meeting-and-how-you-can-too
       \endverb
     \endentry
   \endsortlist
