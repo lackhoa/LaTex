@@ -205,6 +205,7 @@
       \strng{fullhash}{a85eaef76d438a6bd8251ce4d8352dec}
       \field{sortinit}{M}
       \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{extrayear}{1}
       \field{labelyear}{2017}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
@@ -213,6 +214,29 @@
       \field{year}{2017}
       \verb{url}
       \verb http://panmore.com/tesla-motors-inc-organizational-culture-characteristics-analysis
+      \endverb
+    \endentry
+    \entry{me17b}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a85eaef76d438a6bd8251ce4d8352dec}{%
+           family={Meyer},
+           family_i={M\bibinitperiod},
+           given={P},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a85eaef76d438a6bd8251ce4d8352dec}
+      \strng{fullhash}{a85eaef76d438a6bd8251ce4d8352dec}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{extrayear}{2}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla Motors Inc's organizational structure, characteristics (an analysis)}
+      \field{year}{2017}
+      \verb{url}
+      \verb http://panmore.com/tesla-motors-inc-organizational-structure-characteristics-analysis
       \endverb
     \endentry
     \entry{mscsr}{online}{}
