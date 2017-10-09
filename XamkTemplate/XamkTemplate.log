@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  7 OCT 2017 18:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  9 OCT 2017 21:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -729,19 +729,20 @@ File: english.lbx 2016/03/03 v3.3 biblatex localization (PK/JW/AB)
 (./XamkTemplate.aux)
 \openout1 = `XamkTemplate.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 94.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 101.
+
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 ) ABD: EveryShipout initializing macros
@@ -818,9 +819,9 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package ragged2e Info: ABD: executing \RaggedRight on input line 94.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 101.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 94.
+LaTeX Info: Redefining \selectfont on input line 101.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: No input encoding detected.
@@ -832,8 +833,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'XamkTemplate.bbl' found.
  (./XamkTemplate.bbl)
-Package biblatex Info: Reference section=0 on input line 94.
-Package biblatex Info: Reference segment=0 on input line 94.
+Package biblatex Info: Reference section=0 on input line 101.
+Package biblatex Info: Reference segment=0 on input line 101.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -870,13 +871,13 @@ Package biblatex Info: Reference segment=0 on input line 94.
 <logo.jpg, id=4, 249.9885pt x 150.453pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 103.
+Package pdftex.def Info: logo.jpg used on input line 110.
 (pdftex.def)             Requested size: 249.98787pt x 150.45264pt.
 
 <coverbg.png, id=5, 597.73312pt x 846.16125pt>
 File: coverbg.png Graphic file (type png)
  <use coverbg.png>
-Package pdftex.def Info: coverbg.png used on input line 103.
+Package pdftex.def Info: coverbg.png used on input line 110.
 (pdftex.def)             Requested size: 597.54924pt x 845.07463pt.
  [1
 
@@ -884,9 +885,16 @@ Package pdftex.def Info: coverbg.png used on input line 103.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg> <./coverbg.png
 >]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 107.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 114.
 
-(./XamkTemplate.toc)
+(./XamkTemplate.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+)
 \tf@toc=\write5
 \openout5 = `XamkTemplate.toc'.
 
@@ -937,20 +945,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 178.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 178.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 178.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 178.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 188.
 
 
-Package caption Warning: Unused \captionsetup[figure] on input line 130.
+Package caption Warning: Unused \captionsetup[figure] on input line 137.
 See the caption package documentation for explanation.
 
 
-Package caption Warning: Unused \captionsetup[table] on input line 131.
+Package caption Warning: Unused \captionsetup[table] on input line 138.
 See the caption package documentation for explanation.
 
 [4] (./XamkTemplate.aux)
@@ -959,19 +961,19 @@ Package logreq Info: Writing requests to 'XamkTemplate.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19464 strings out of 493029
- 373611 string characters out of 6136235
- 745015 words of memory out of 5000000
- 22671 multiletter control sequences out of 15000+600000
+ 19477 strings out of 493029
+ 373840 string characters out of 6136235
+ 745004 words of memory out of 5000000
+ 22684 multiletter control sequences out of 15000+600000
  18918 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,54p,874b,1034s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,54p,874b,983s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
 elvetic/uhvro8a.pfb>
-Output written on XamkTemplate.pdf (4 pages, 90119 bytes).
+Output written on XamkTemplate.pdf (4 pages, 95154 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream

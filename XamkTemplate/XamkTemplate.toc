@@ -1,3 +1,9 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}I AM THE SHIT!}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}This is crappy subsection}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.1}This is a crapy subsubsection}{3}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{REFERENCES}{4}
