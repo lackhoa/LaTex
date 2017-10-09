@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  9 OCT 2017 21:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  9 OCT 2017 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -955,7 +955,9 @@ See the caption package documentation for explanation.
 Package caption Warning: Unused \captionsetup[table] on input line 138.
 See the caption package documentation for explanation.
 
-[4] (./XamkTemplate.aux)
+[4
+
+] (./XamkTemplate.aux)
 Package logreq Info: Writing requests to 'XamkTemplate.run.xml'.
 \openout1 = `XamkTemplate.run.xml'.
 
