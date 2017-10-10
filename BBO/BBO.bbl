@@ -193,7 +193,7 @@
       \verb https://www.usnews.com/opinion/blogs/economic-intelligence/2013/06/03/teslas-success-is-the-result-of-political-favoritism
       \endverb
     \endentry
-    \entry{me17}{online}{}
+    \entry{me17c}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=a85eaef76d438a6bd8251ce4d8352dec}{%
            family={Meyer},
@@ -206,6 +206,29 @@
       \field{sortinit}{M}
       \field{sortinithash}{2684bec41e9697b92699b46491061da2}
       \field{extrayear}{1}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Starbuck Coffee's company organizational structure}
+      \field{year}{2017}
+      \verb{url}
+      \verb http://panmore.com/starbucks-coffee-company-organizational-structure
+      \endverb
+    \endentry
+    \entry{me17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a85eaef76d438a6bd8251ce4d8352dec}{%
+           family={Meyer},
+           family_i={M\bibinitperiod},
+           given={P},
+           given_i={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{a85eaef76d438a6bd8251ce4d8352dec}
+      \strng{fullhash}{a85eaef76d438a6bd8251ce4d8352dec}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{extrayear}{2}
       \field{labelyear}{2017}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}
@@ -228,7 +251,7 @@
       \strng{fullhash}{a85eaef76d438a6bd8251ce4d8352dec}
       \field{sortinit}{M}
       \field{sortinithash}{2684bec41e9697b92699b46491061da2}
-      \field{extrayear}{2}
+      \field{extrayear}{3}
       \field{labelyear}{2017}
       \field{datelabelsource}{}
       \field{labelnamesource}{author}

@@ -50,4 +50,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.1}Tesla's organizational design}{18}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2}Departmentalization examples}{19}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{REFERENCES}{20}

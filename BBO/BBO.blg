@@ -1,15 +1,15 @@
 [0] Config.pm:340> INFO - This is Biber 2.4
 [0] Config.pm:343> INFO - Logfile is 'BBO.blg'
-[77] biber:287> INFO - === Mon Oct  9, 2017, 22:38:48
-[247] Biber.pm:348> INFO - Reading 'BBO.bcf'
-[531] Biber.pm:742> INFO - Found 17 citekeys in bib section 0
-[541] Biber.pm:3151> INFO - Processing section 0
-[602] Biber.pm:3308> INFO - Looking for bibtex format file 'unilink.bib' for section 0
-[643] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[667] bibtex.pm:974> INFO - Found BibTeX data source 'unilink.bib'
-[1184] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1185] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1185] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
-[1186] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
-[1237] bbl.pm:519> INFO - Writing 'BBO.bbl' with encoding 'ascii'
-[1393] bbl.pm:615> INFO - Output to BBO.bbl
+[78] biber:287> INFO - === Tue Oct 10, 2017, 18:47:49
+[245] Biber.pm:348> INFO - Reading 'BBO.bcf'
+[520] Biber.pm:742> INFO - Found 18 citekeys in bib section 0
+[529] Biber.pm:3151> INFO - Processing section 0
+[588] Biber.pm:3308> INFO - Looking for bibtex format file 'unilink.bib' for section 0
+[633] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[659] bibtex.pm:974> INFO - Found BibTeX data source 'unilink.bib'
+[1177] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1177] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1177] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[1177] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[1233] bbl.pm:519> INFO - Writing 'BBO.bbl' with encoding 'ascii'
+[1402] bbl.pm:615> INFO - Output to BBO.bbl
