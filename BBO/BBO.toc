@@ -52,4 +52,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {8.2}Departmentalization examples}{19}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{REFERENCES}{20}
+\contentsline {section}{\numberline {9}FINANCING}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1}Concepts}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2}Real life examples}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{REFERENCES}{22}
