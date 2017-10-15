@@ -56,6 +56,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.1}Concepts}{20}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2}Real life examples}{21}
+\contentsline {subsection}{\numberline {9.2}Real life examples of banks and public financing}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{REFERENCES}{22}
+\contentsline {section}{REFERENCES}{23}
