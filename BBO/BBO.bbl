@@ -127,6 +127,28 @@
       \verb http://panmore.com/tesla-motors-inc-stakeholders-corporate-social-responsibility
       \endverb
     \endentry
+    \entry{ha17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=435c3248267103206277d8f25b0f0bd4}{%
+           family={Hall},
+           family_i={H\bibinitperiod},
+           given={G},
+           given_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{435c3248267103206277d8f25b0f0bd4}
+      \strng{fullhash}{435c3248267103206277d8f25b0f0bd4}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HR executive shakeup at Tesla as workplace complaints mount}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.bizjournals.com/sanjose/news/2017/05/24/tesla-human-resources-arnnon-geshur-gaby-toledano.html#i1
+      \endverb
+    \endentry
     \entry{hoUS}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=33cd33d6e507fdb2568256c625491f56}{%
@@ -147,6 +169,28 @@
       \field{year}{2017}
       \verb{url}
       \verb https://geert-hofstede.com/united-states.html
+      \endverb
+    \endentry
+    \entry{ho16}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5e061ac1605293db3399d5cef0b07f11}{%
+           family={Hogg},
+           family_i={H\bibinitperiod},
+           given={R},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e061ac1605293db3399d5cef0b07f11}
+      \strng{fullhash}{5e061ac1605293db3399d5cef0b07f11}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla's supply chain set for a surge}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://tinyurl.com/y8oa55l6
       \endverb
     \endentry
     \entry{kle16}{online}{}
@@ -348,6 +392,28 @@
       \verb https://twitter.com/elonmusk/status/873116351316938753
       \endverb
     \endentry
+    \entry{om16}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8e26596ead7ddd9323e0b61ebbb6048b}{%
+           family={O'Marah},
+           family_i={O\bibinitperiod},
+           given={K},
+           given_i={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{8e26596ead7ddd9323e0b61ebbb6048b}
+      \strng{fullhash}{8e26596ead7ddd9323e0b61ebbb6048b}
+      \field{sortinit}{O}
+      \field{sortinithash}{7803d2715d5e795e70382b084ab8d00e}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla and the 21st century supply chain}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://www.forbes.com/sites/kevinomarah/2016/04/07/tesla-and-the-21st-century-supply-chain/#3f02d5202584
+      \endverb
+    \endentry
     \entry{ry17}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=efb68bf62a30cbcef6f09e56a92c1a4f}{%
@@ -368,6 +434,28 @@
       \field{year}{2017}
       \verb{url}
       \verb https://www.inc.com/kevin-j-ryan/how-to-hire-like-elon-musk.html
+      \endverb
+    \endentry
+    \entry{ta14}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3021ec840e467aa3ce9e36a13e333b94}{%
+           family={Tao},
+           family_i={T\bibinitperiod},
+           given={R},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3021ec840e467aa3ce9e36a13e333b94}
+      \strng{fullhash}{3021ec840e467aa3ce9e36a13e333b94}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla supply chain - custom-build world class supply chain}
+      \field{year}{2014}
+      \verb{url}
+      \verb https://www.tradegecko.com/blog/tesla-custom-built-supply-chain
       \endverb
     \endentry
     \entry{te10}{online}{}

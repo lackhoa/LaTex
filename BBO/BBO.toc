@@ -58,4 +58,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {9.2}Real life examples of banks and public financing}{21}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{REFERENCES}{23}
+\contentsline {section}{\numberline {10}OPERATIONS MANAGEMENT – LOGISTICS AND SUPPLY CHAIN MANAGEMENT}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11}HUMAN RESOURCE MANAGEMENT}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.1}Recruitment}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.2}Career}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {11.3}Employer branding}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{REFERENCES}{28}
