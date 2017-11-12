@@ -19,6 +19,28 @@
 
 \refsection{0}
   \sortlist[entry]{nyt/global}
+    \entry{bo17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=aa4674cccad8871822d43c942098dfce}{%
+           family={Boulton},
+           family_i={B\bibinitperiod},
+           given={C},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa4674cccad8871822d43c942098dfce}
+      \strng{fullhash}{aa4674cccad8871822d43c942098dfce}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla hires new CIO}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.cio.com/article/3178010/leadership-management/tesla-hires-new-cio.html
+      \endverb
+    \endentry
     \entry{bry16}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=5c7ac08b74752adaeea04b2f9f1b41db}{%
@@ -498,6 +520,28 @@
       \field{year}{2017}
       \verb{url}
       \verb https://www.theladders.com/p/28310/how-elon-musk-runs-an-efficient-meeting-and-how-you-can-too
+      \endverb
+    \endentry
+    \entry{vi14}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4f24c42dea7d58106e229531e2cbf479}{%
+           family={Vijayan},
+           family_i={V\bibinitperiod},
+           given={J},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f24c42dea7d58106e229531e2cbf479}
+      \strng{fullhash}{4f24c42dea7d58106e229531e2cbf479}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla CIO builds IT that keeps pace with its cars}
+      \field{year}{2014}
+      \verb{url}
+      \verb https://www.cioinsight.com/it-management/tesla-cio-builds-it-that-keeps-pace-with-its-cars.html
       \endverb
     \endentry
   \endsortlist

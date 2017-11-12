@@ -68,4 +68,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {11.3}Employer branding}{27}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{REFERENCES}{28}
+\contentsline {section}{\numberline {12}IT FOR BUSINESS}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.1}IT resources}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {12.2}Information system}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13}Marketing}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{REFERENCES}{30}

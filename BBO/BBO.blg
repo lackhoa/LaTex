@@ -1,15 +1,15 @@
 [0] Config.pm:340> INFO - This is Biber 2.4
-[1] Config.pm:343> INFO - Logfile is 'BBO.blg'
-[78] biber:287> INFO - === Thu Nov  2, 2017, 22:30:19
-[258] Biber.pm:348> INFO - Reading 'BBO.bcf'
-[542] Biber.pm:742> INFO - Found 22 citekeys in bib section 0
-[552] Biber.pm:3151> INFO - Processing section 0
-[615] Biber.pm:3308> INFO - Looking for bibtex format file 'unilink.bib' for section 0
-[668] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
-[702] bibtex.pm:974> INFO - Found BibTeX data source 'unilink.bib'
-[1326] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1326] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1326] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
-[1326] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
-[1391] bbl.pm:519> INFO - Writing 'BBO.bbl' with encoding 'ascii'
-[1579] bbl.pm:615> INFO - Output to BBO.bbl
+[0] Config.pm:343> INFO - Logfile is 'BBO.blg'
+[77] biber:287> INFO - === Sun Nov 12, 2017, 18:42:03
+[244] Biber.pm:348> INFO - Reading 'BBO.bcf'
+[524] Biber.pm:742> INFO - Found 24 citekeys in bib section 0
+[534] Biber.pm:3151> INFO - Processing section 0
+[592] Biber.pm:3308> INFO - Looking for bibtex format file 'unilink.bib' for section 0
+[648] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[678] bibtex.pm:974> INFO - Found BibTeX data source 'unilink.bib'
+[1372] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1372] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1373] Biber.pm:3028> INFO - Sorting list 'nyt/global' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[1373] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[1448] bbl.pm:519> INFO - Writing 'BBO.bbl' with encoding 'ascii'
+[1664] bbl.pm:615> INFO - Output to BBO.bbl
