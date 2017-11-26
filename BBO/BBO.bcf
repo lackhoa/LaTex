@@ -2077,6 +2077,8 @@
     <bcf:citekey order="24">ho16</bcf:citekey>
     <bcf:citekey order="25">vi14</bcf:citekey>
     <bcf:citekey order="26">bo17</bcf:citekey>
+    <bcf:citekey order="27">schu17</bcf:citekey>
+    <bcf:citekey order="28">kro17</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global" type="entry" sortscheme="nyt" sortnamekeyscheme="global">
   <bcf:sorting>

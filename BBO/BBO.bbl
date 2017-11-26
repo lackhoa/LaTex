@@ -259,6 +259,28 @@
       \verb https://www.usnews.com/opinion/blogs/economic-intelligence/2013/06/03/teslas-success-is-the-result-of-political-favoritism
       \endverb
     \endentry
+    \entry{kro17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=26b5073c1de8e07c9d0efb3c722cf65d}{%
+           family={Krok},
+           family_i={K\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{26b5073c1de8e07c9d0efb3c722cf65d}
+      \strng{fullhash}{26b5073c1de8e07c9d0efb3c722cf65d}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla's Model 3 marketing strategy ditches specs for end results}
+      \field{year}{2017}
+      \verb{url}
+      \verb https://www.cnet.com/roadshow/news/teslas-model-3-marketing-strategy-ditches-specs-for-end-results/
+      \endverb
+    \endentry
     \entry{me17c}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=a85eaef76d438a6bd8251ce4d8352dec}{%
@@ -456,6 +478,28 @@
       \field{year}{2017}
       \verb{url}
       \verb https://www.inc.com/kevin-j-ryan/how-to-hire-like-elon-musk.html
+      \endverb
+    \endentry
+    \entry{schu17}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=07a6541ed69b641e6ff7592b960eaa4b}{%
+           family={Schultz},
+           family_i={S\bibinitperiod},
+           given={E},
+           given_i={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{07a6541ed69b641e6ff7592b960eaa4b}
+      \strng{fullhash}{07a6541ed69b641e6ff7592b960eaa4b}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2017}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tesla still doesn't need paid advertising to makes sales}
+      \field{year}{2017}
+      \verb{url}
+      \verb http://adage.com/article/cmo-strategy/tesla-paid-advertising/310008/
       \endverb
     \endentry
     \entry{ta14}{online}{}

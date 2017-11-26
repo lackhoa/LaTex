@@ -8,17 +8,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2}Basic information}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}HISTORY}{4}
+\contentsline {section}{\numberline {3}HISTORY}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}The foundation}{4}
+\contentsline {subsection}{\numberline {3.1}The foundation}{5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}Main business development}{5}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3}Most interesting business operations}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}EXTERNAL ENVIRONMENT}{6}
+\contentsline {section}{\numberline {4}EXTERNAL ENVIRONMENT}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Economic environment}{6}
+\contentsline {subsection}{\numberline {4.1}Economic environment}{7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {4.2}Cultural Environment}{7}
 \defcounter {refsection}{0}\relax 
@@ -30,9 +30,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.1}Tesla}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2}Google}{11}
+\contentsline {subsection}{\numberline {6.2}Google}{12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3}Microsoft}{12}
+\contentsline {subsection}{\numberline {6.3}Microsoft}{13}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7}MANAGING THE BUSINESS}{14}
 \defcounter {refsection}{0}\relax 
@@ -44,7 +44,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.4}Recruitment for a managerial position}{16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5}Corporate culture}{16}
+\contentsline {subsection}{\numberline {7.5}Corporate culture}{17}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {8}ORGANISATIONAL STRUCTURES}{18}
 \defcounter {refsection}{0}\relax 
@@ -76,4 +76,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {13}Marketing}{29}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{REFERENCES}{30}
+\contentsline {subsection}{\numberline {13.1}Case study: Model 3}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {13.2}Marketing activity}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{REFERENCES}{32}
